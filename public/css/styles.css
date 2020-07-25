@@ -1,0 +1,26 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+.img{
+  background-image: url("img1.jpg");
+}
+.footer{
+  text-align: center;
+
+}
+.img3{
+  background-image: url("img5.jpg");
+}
